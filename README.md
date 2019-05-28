@@ -1,5 +1,5 @@
 
-####Telemetry assisted frame registration and background subtraction in low-altitude UAV videos
+## Telemetry assisted frame registration and background subtraction in low-altitude UAV videos
 
 
 
